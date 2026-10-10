@@ -14,9 +14,9 @@ PPSSPP is currently unsupported.
 
 
 ## Controls:
-Left/Right: D-pad
-Tilt Up/Down: L/R
-Jump/Flip: X
+Left/Right: D-pad,
+Tilt Up/Down: L/R,
+Jump/Flip: X,
 Boost: O
 
 ## Installation:
