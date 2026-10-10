@@ -13,12 +13,12 @@ P.S. The garage does not currently work
 PPSSPP is currently unsupported.
 
 
-#Controls:
+# Controls:
 Left/Right: D-pad
 Tilt Up/Down: L/R
 Jump/Flip: X
 Boost: O
 
-#Installation:
+# Installation:
 Copy the SideSwipePSP folder and extract it into PSP/GAME/ on your PSP
 
