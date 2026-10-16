@@ -9,7 +9,7 @@ It is AI assisted as there was not much information on the internet about coding
 This game is still a work in progress. I know there are a couple of bugs, but I am very open to feedback, so please let me know what you think. 
 I hope you enjoy!
 
-P.S. The garage does not currently work
+P.S. The garage does not currently work, 
 PPSSPP is currently unsupported.
 
 
