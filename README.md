@@ -18,7 +18,12 @@ Left/Right: D-pad,
 Tilt Up/Down: L/R,
 Jump/Flip: X,
 Boost: O
+Pause: Start
+Main Menu: Select
 
 ## Installation:
 Copy the SideSwipePSP folder and extract it into PSP/GAME/ on your PSP
+
+## Known Bugs:
+At times the car can look semi-translucent
 
