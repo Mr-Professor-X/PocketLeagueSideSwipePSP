@@ -1,4 +1,4 @@
-# SideSwipePSP
+# PocketLeagueSideSwipePSP
 A Rocket League SideSwipe inspired game for the PSP
 
 
